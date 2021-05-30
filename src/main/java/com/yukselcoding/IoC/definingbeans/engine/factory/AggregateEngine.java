@@ -1,6 +1,6 @@
-package com.yukselcoding.domain.engine.factory;
+package com.yukselcoding.IoC.definingbeans.engine.factory;
 
-import com.yukselcoding.domain.engine.Engine;
+import com.yukselcoding.IoC.definingbeans.engine.Engine;
 
 import javax.inject.Singleton;
 import java.util.List;

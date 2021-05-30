@@ -1,7 +1,7 @@
-package com.yukselcoding.domain.engine.factory;
+package com.yukselcoding.IoC.definingbeans.engine.factory;
 
 
-import com.yukselcoding.domain.engine.Engine;
+import com.yukselcoding.IoC.definingbeans.engine.Engine;
 
 class V6Engine implements Engine {
     private int cylinders = 6;

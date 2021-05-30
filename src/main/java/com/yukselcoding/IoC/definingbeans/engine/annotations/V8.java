@@ -1,4 +1,4 @@
-package com.yukselcoding.domain.engine.annotations;
+package com.yukselcoding.IoC.definingbeans.engine.annotations;
 
 import javax.inject.Qualifier;
 import java.lang.annotation.Retention;

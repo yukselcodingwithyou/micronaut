@@ -1,6 +1,6 @@
-package com.yukselcoding.domain.engine;
+package com.yukselcoding.IoC.definingbeans.engine;
 
-import com.yukselcoding.domain.engine.factory.AggregateEngine;
+import com.yukselcoding.IoC.definingbeans.engine.factory.AggregateEngine;
 import io.micronaut.test.extensions.junit5.annotation.MicronautTest;
 import org.junit.jupiter.api.Test;
 

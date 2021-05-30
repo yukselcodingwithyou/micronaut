@@ -1,4 +1,4 @@
-package com.yukselcoding.domain.engine;
+package com.yukselcoding.IoC.definingbeans.engine;
 
 public interface Engine {
     int getCylinders();
